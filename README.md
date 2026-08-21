@@ -1,3 +1,25 @@
+Pull Request required
+↓
+Automated tests
+↓
+Security scan
+↓
+Dependency scan
+↓
+Code review
+↓
+Staging deployment
+↓
+Production approval
+↓
+Immutable deployment record
+
+main        → production
+staging     → acceptance / stakeholder testing
+develop     → active development
+feature/*   → individual development
+hotfix/*    → emergency production fixes
+
 mollii-web-platform/
 │
 ├── apps/
